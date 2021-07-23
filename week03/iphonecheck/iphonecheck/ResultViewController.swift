@@ -34,7 +34,7 @@ class ResultViewController: UIViewController {
         case "F11","F10","f11","f10":
             models = "적정모델 : Iphone 12pro max"
             modelImg.image = UIImage(named: "iphone12promax.jpeg")
-        case "F9","F8","f9","F8" :
+        case "F9","F8","f9","f8" :
             models = "적정모델 : Iphone 12,12pro"
             modelImg.image = UIImage(named: "iphone12.jpeg")
         case "F7","f7" :
